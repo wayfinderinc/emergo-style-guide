@@ -1,0 +1,8 @@
+#ourProcess { position: absolute; background: #fff; }
+#ourProcessColored { display: none; }
+#ourProcessGrey { opacity: 1; }
+.our-process { position: absolute; width: 100%;
+  @include respond-to(tablet-w) { width: 657px; }
+  @include respond-to(desktop-w-s) { width: 1176px; }
+  @include respond-to(desktop-w-normal) { width: 1248px; }
+}

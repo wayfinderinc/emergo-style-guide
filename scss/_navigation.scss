@@ -1,0 +1,8 @@
+.navigation { position: fixed; min-width: 296px; height: 100%; background: #FAFBFE; background: #F3F5FA;
+  .logo { position: relative; width: 193px; margin: 40px 0 0 40px; }
+  .control { position: relative; padding: 64px 0 0 40px;
+    .inquiryList { display: none; }
+    .selected { display: block; }
+
+  }
+}
