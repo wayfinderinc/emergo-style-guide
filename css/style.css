@@ -6184,7 +6184,7 @@ h1 {
   line-height: 72px;
   margin: 0px;
   overflow: visible;
-  padding: 0px; }
+  padding: 0 0 24px 0; }
 
 h2 {
   font-size: 34px;
